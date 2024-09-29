@@ -15,7 +15,7 @@ these sources will have to be downloaded on data online sites kaggle or fred or 
 -  -SQL for querying of Data
 - github for portfolio building.
 
-### tools ued
+### tools used
 - microsoft excel [download here](https//:www.microsoft.com)
   1. For data cleaning
   2. For analysis 
@@ -48,7 +48,7 @@ where condition = true
 
 ### Data visualization
 
-
+🥦
 
 
 
