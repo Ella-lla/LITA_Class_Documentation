@@ -51,12 +51,6 @@ where condition = true
 🥦
 
 
-
-
-
-
-
-
    
 
 
