@@ -40,11 +40,13 @@ in the initial phase of the data cleaning and reparartion , we perform the follo
 ### data analysisney both in microsoft excel or SQL
 
 this is the expressions used in my dtat analysis jour
-'''SQL
-  " select* from table1
-  where condition = true
-  '''
+''' SQL
+select* from table1
+where condition = true
+'''
 
+
+### Data visualization
 
 
 
