@@ -8,7 +8,7 @@ This is where i documented my first project while learning Data analysis under I
 #### DATA SOURCES
 these sources will have to be downloaded on data online sites kaggle or fred or any other data repository data
 
-###  utoolused
+###  tool used
 - microsoft excel for data cleaning,analysis and visualization
 -  -SQL for querying of Data
 - github for portfolio building.
@@ -21,3 +21,36 @@ these sources will have to be downloaded on data online sites kaggle or fred or 
      
 - SQL for querying of Data
 - github for portfolio building.
+
+### Data Cleaning and preparation
+in the initial phase of the data cleaning and reparartion , we perform the following action;
+
+1. Data loading and inspection
+2. handlinh missimg variables
+3. Data cleaning ans formatting
+
+   ### Exploratory Data Analysis
+   EDA involved  the exploring of data to answer some questions
+   - overall trends
+   - which products sre top sellers
+   - what are products on peak sales
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+###
